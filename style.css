@@ -109,7 +109,7 @@ ul {
 .books {
   flex: 1;
   display: grid;
-  grid-template: repeat(2, 150px) / 1fr;
+  grid-template: repeat(2, 200px) / 1fr;
   gap: 12px;
   grid-auto-flow: row;
   grid-auto-columns: 130px;
@@ -118,7 +118,7 @@ ul {
   padding: 8px 42px;
   background-color: #006363;
   border-radius: 18px;
-  height: 150px;
+  height: 200px;
   display: flex;
   flex-direction: column;
   justify-content: center;

@@ -113,6 +113,7 @@ ul {
   gap: 12px;
   grid-auto-flow: row;
   grid-auto-columns: 130px;
+  overflow-y: scroll;
 }
 .book {
   padding: 8px 42px;
